@@ -1,0 +1,6 @@
+A	Europe 
+B	Asia
+C	Africa
+D	North America
+E	South America
+F	Oceania

@@ -1,0 +1,359 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=267;
+	taxlabels
+	'Bom32 Caurinus dectes'
+	'Bom138 Boreus nivoriundus'
+	'Bom13_80 Boreus brumalis'
+	'Bom119 Boreus brumalis'
+	'Bom05_82 Boreus coloradensis'
+	'Boreus_cal Boreus californicus'
+	'Bom107 Boreus westwoodi'
+	'Bom108 Boreus hyemalis'
+	'F118 Macropsylla novaehollandiae'[&!name="Macropsyllidae"]
+	'F119 Stephanocircus pectinipes'
+	'F116 Stephanocircus dasyuri'
+	'F245 Stephanocircus dasyuri'
+	'F164 Cleopsylla townsendi'
+	'F142 Barreropsylla excelsa'
+	'F121 Sphinctopsylla ares'
+	'F163 Plocopsylla achilles'
+	'F264 Plocopsylla wolffsohni'
+	'F161 Tiarapsylla titschacki'
+	'F332 Tiarapsylla argentina'
+	'F336 Craneopsylla minerva wolffheuglia'
+	'F170 Craneopsylla minerva minerva'
+	'F335 Craneopsylla minerva wolffheuglia'
+	Craneopsyl
+	'F259 Doratopsylla dasycnema dasycnema'
+	'F402 Doratopsylla sp.'
+	'F254 Adoratopsylla intermedia copha'
+	'F085 Corrodopsylla birulai'
+	'F089 Corrodopsylla curvata curvata'
+	'F185 Chiastopsylla rossi'[&!name="Chimaeropsyllidae"]
+	'F047 Hoplopsyllus anomalus'
+	'F037 Cediopsylla inaequalis inaequalis'
+	'F130 Spilopsyllus cuniculi'
+	'Puf30 Pulex irritans'
+	'F464 Pulex irritans or simulans'
+	'F320 Echidnophaga oschanini'
+	'F139 Echidnophaga iberica'
+	'F058 Echidnophaga gallinacea'
+	'F326 Archaeopsylla erinacei erinacei'
+	'Puf01 Ctenocephalides canis'
+	'MerA1 Ctenocephalides felis felis'
+	'F222 Ctenocephalides felis damarensis'
+	'F286 Synopsyllus girardi'
+	'F205 Xenopsylla dipodilli'
+	'F029 Xenopsylla cheopis'
+	'F208 Xenopsylla robertsi'
+	'F054 Parapulex chephrenis'
+	'F319 Xenopsylla skrjabini'
+	'F324 Xenopsylla conformis conformis'
+	'F204 Xenopsylla conformis mycerini'
+	'F133 Xenopsylla cunicularis'
+	'F206 Xenopsylla ramesis'
+	'F156 Uropsylla tasmanica'[&!name="Uropsylla (Pygiopsyllidae)"]
+	'F202 Lycopsylla nova'
+	'F243 Bradiopsylla echidnae'
+	'Bibikovana Bibikovana n. sp.'
+	'F244 Pygiopsylla hoplia'
+	'F117 Pygiopsylla hoplia'
+	'F178 Papuapsylla corrugis'
+	'F176 Parastivalius novaeguinae'
+	'F175 Metastivalius mordax'
+	'F270 Lentistivalius insolli'
+	'F236 Lentistivalius occidentayunnanus'
+	'F255 Lentistivalius klossi klossi'
+	'F280 Lentistivalius klossi klossi'
+	'F275 Neotyphloceras crassispina ssp.'
+	'F109 Neotyphloceras crassispina chilensis'
+	'F334 Agastopsylla boxi boxi'
+	'F338 Chiliopsylla allophyla allophyla'
+	'F127 Chiliopsylla allophyla allophyla'
+	'F229 Palaeopsylla remota'
+	'F234 Ctenophthalmus congeneroides congeneroides'
+	'F401 Ctenophthalmus agyrtes'
+	'F423 Ctenophthalmus sp.'
+	'F405 Ctenophthalmus sp.'
+	'F201 Ctenophthalmus formasanus'
+	'F094 Ctenophthalmus sanborni'
+	'Ctf67 Ctenophthalmus pseudagyrtes pseudagyrtes'
+	'F462 Ctenophthalmus sp.'
+	'F268 Ctenophthalmus cryptotis'
+	'F024 Stenistomera alpina'
+	'F023 Anomiopsyllus amphibolus'
+	'F297 Wenzella obscura'
+	'F015 Meringis dipodomys'
+	'Ctf33 Meringis hubbardi'
+	'F020 Epitedia wenmanni'
+	'F144 Catallagia borealis'
+	'F069 Catallagia decipiens'
+	'Ctf125 Catallagia sp.'
+	'F312 Neopsylla abagaitui'
+	'F257 Neopsylla inopina'
+	'F102 Neopsylla bidentatiformis'
+	'F313 Neopsylla mana'
+	'F314 Neopsylla mana'
+	'F120 Ctenoparia topali'
+	'F099 Carteretta clavata'
+	'F097 Dinopsyllus ellobius'
+	'Hyf71 Hystrichopsylla talpae talpae'
+	'F404 Hystrichopsylla sp.'
+	'F115 Hystrichopsylla schefferi'
+	'F428 Hystrichopsylla dippiei'
+	'F191 Hystrichopsylla orophila'
+	'Cof60 Coptopsylla africana'[&!name="Coptopsyllidae"]
+	'F107 Stenoponia sidimi'
+	'F050 Stenoponia tripectinata medialis'
+	'Ctf93 Stenoponia americana'
+	'FXG825 Stenoponia americana'
+	'F189 Conorhinopsylla stanfordi'
+	'Megarthrog Megarthroglossus divisus'
+	'F126 Nearctopsylla traubi'
+	'F331 Nearctopsylla genalis hygini'
+	'F241 Nearctopsylla hyrtaci'
+	'F124 Corypsylla ornata'
+	'F059 Rhadinopsylla masculana'
+	'F231 Stenischia sp.'
+	'F013 Rhadinopsylla heiseri'
+	'F039 Rhadinopsylla difficilis'
+	'F316 Rhadinopsylla dahurica dahurica'
+	'F230 Rhadinopsylla dahurica vicina'
+	'F281 Hectopsylla cypha'
+	'F461 Hectopsylla pulex'
+	'F166 Tunga libis'
+	'F021 Tunga monositus'
+	'F167 Tunga penetrans'
+	'CE1 Malacopsylla grossiventris'
+	'CE2 Phthiropsylla agenoris'
+	'F410 Phthiropsylla agenoris'
+	'F098 Jordanopsylla becki'[&!name="Jordanopsylla (Anomiopsyllinae)"]
+	'F192 Chaetopsylla lotoris'
+	'F223 Chaetopsylla appropinquans'
+	'F265 Tetrapsyllus rhombus'
+	'F267 Tetrapsyllus maulinus'
+	'F333 Tetrapsyllus maulinus'
+	'F092 Tiamastus cavicola'
+	'F330 Rhopalopsyllus australis ssp.'
+	'F104 Polygenis pradoi'
+	'F209 Polygenis sp.'
+	'F294 Polygenis roberti roberti'
+	'F105 Polygenis rimatus'
+	'Rhf81 Polygenis pradoi'
+	'F277 Listronius fortis'
+	'F273 Listronius fortis'
+	'Rhf62 Parapsyllus magellanicus largificus'
+	'F056 Parapsyllus longicornis'
+	'F274 Ectinorus ixanus'
+	'F162 Ectinorus alejoi'
+	'F112 Ectinorus gallardoi'
+	'F110 Ectinorus chilensis'
+	'F283 Ectinorus lareschiae'
+	'F282 Ectinorus onychius ssp.'
+	'F278 Ectinorus onychius onychius'
+	'F306 Ochotonobius hirticrus'
+	'F128 Geusibia ashcrafti'
+	'F101 Frontopsylla nakagawai borealosinica'
+	'F309 Frontopsylla wagneri wagneri'
+	'F305 Frontopsylla hetera'
+	'Lef52 Ophthalmopsylla volgensis palestinica'
+	'F145 Ophthalmopsylla jettmari'
+	'F310 Ophthalmopsylla kiritschenkovi'
+	'F328 Ophthalmopsylla kiritschenkovi'
+	'F146 Ophthalmopsylla praefecta praefecta'
+	'F315 Ophthalmopsylla praefecta praefecta'
+	'F302 Ophthalmopsylla sp.'
+	'F252 Mesopsylla lenis'
+	'F311 Mesopsylla hebes clara'
+	'F290 Paractenopsyllus raxworthyi'
+	'F291 Paractenopsyllus madagascarensis'
+	'F292 Paractenopsyllus madagascarensis'
+	'F227 Peromyscopsylla himalaica'
+	'F114 Ornithophaga anomala anomala'
+	'F038 Peromyscopsylla selenis'
+	'F431 Peromyscopsylla selenis'
+	'F413 Peromyscopsylla silvatica'
+	'F091 Peromyscopsylla silvatica'
+	'F149 Peromyscopsylla hamifer vigens'
+	'F077 Amphipsylla sibirica sibirica'
+	'F303 Amphipsylla primaris primaris'
+	'F301 Amphipsylla longispina'
+	'F304 Amphipsylla vinogradovi vinogradovi'
+	'F414 Leptopsylla taschenbergi'
+	'F327 Leptopsylla nana'
+	'F226 Leptopsylla nana'
+	'F174 Sigmactenus toxopeusi'
+	'F225 Pectinoctenus nemorosa'
+	'F224 Pectinoctenus lauta'
+	'F228 Pectinoctenus pectiniceps'
+	'F322 Pectinoctenus pavlovskii'
+	'F232 Nycteridopsylla iae'
+	'F293 Nycteridopsylla iae'
+	'F233 Nycteridopsylla sakagutii'
+	'F258 Sternopsylla distincta texana'
+	'F068 Sternopsylla distincta texana'
+	'JAE3026F Thaumapsylla sp.'
+	'P4496F Thaumapsylla sp.'
+	'F289 Lagaropsylla consularis'
+	'F288 Lagaropsylla idae'
+	'F057 Myodopsylla palposa'
+	'Isf61 Myodopsylla gentilis'
+	'F074 Myodopsylla insignis'
+	'F285 Dampfia grahami grahami'
+	'F253 Myodopsylla trisellis'
+	'F325 Ischnopsyllus indicus'
+	'F295 Ischnopsyllus variabilis'
+	'F113 Dolichopsyllus stylosus'[&!name="Dolichopsyllinae"]
+	'F103 Paraceras crispum'
+	'F129 Amphalius runatus necopinus'
+	'F051 Nosopsyllus iranus theodori'
+	'F317 Nosopsyllus laeviceps ellobii'
+	'F108 Nosopsyllus laeviceps laeviceps'
+	'F321 Nosopsyllus laeviceps ellobii'
+	'F323 Nosopsyllus laeviceps kuzenkovi'
+	'F159 Jellisonia guerrerensis'
+	'FXG731 Jellisonia guerrerensis'
+	'FXG379 Jellisonia klotsi'
+	'FXG763 Jellisonia amadoi'
+	'F218 Jellisonia sp.'
+	'F160 Kohlsia keenani'
+	'F123 Kohlsia osgoodi'
+	'F188 Opisodasys pseudarctomys'
+	'QRS140 unidentified ceratophyllid flea'
+	'F022 Orchopeas leucopus'
+	'F463 Orchopeas agilis'
+	'F008 Orchopeas agilis'
+	'F165 Dasypsyllus stejnegeri'
+	'F196 Dasypsyllus gallinulae perpinnatus'
+	'F272 Dasypsyllus gallinulae gallinulae'
+	'F329 Amalaraeus penicilliger penicilliger'
+	'F076 Amalaraeus penicilliger pedias'
+	'Cef100 Traubella grundmanni'
+	'F031 Malaraeus telchinus'
+	'F284 Malaraeus eremicus'
+	'Cef12 Malaraeus sinomus'
+	'F240 Amaradix bitterrootensis'
+	'F256 Thrassis pandorae pandorae'
+	'Cef14 Thrassis bacchi gladiolus'
+	'F406 Oropsylla hirsuta'
+	'F048 Oropsylla montana'
+	'F184 Dactylopsylla bluei bluei'
+	'F168 Foxella ignota'
+	'F011 Foxella ignota'
+	'F147 Citellophilus tesquorum mongolicus'
+	'F307 Citellophilus tesquorum mongolicus'
+	'F237 Ceratophyllus zhovtyi'
+	'F308 Callopsylla caspia gaiskii'
+	'F318 Paramonopsyllus scalonae'
+	'F095 Baculomeris schmidti'
+	'F040 Ceratophyllus petrochelidoni'
+	'F296 Ceratophyllus gallinae'
+	'F298 Ceratophyllus hirundinis'
+	'F035 Ceratophyllus gallinae'
+	'F299 Ceratophyllus idius'
+	'F300 Ceratophyllus rusticus'
+	'F096 Plusaetis smiti'
+	'F044 Eumolpianus eumolpi eumolpi'
+	'F042 Opisodasys keeni'
+	'F079 Megabothris turbidus'
+	'F032 Aetheca wagneri'
+	'F010 Ceratophyllus ciliatus kincaidi'
+	'Plusaetis Plusaetis n. sp.'
+	'F169 Megabothris acerbus'
+	'Cef34 Megabothris calcarifer'
+	'F465 Eumolpianus cyrturus/eumolpi'
+	'FXG272 Plusaetis sp.'
+	'FXG810 Plusaetis parus'
+	'F260 Megabothris walkeri'
+	'F427 Megabothris abantis'
+	'F248 Megabothris groenlandicus'
+	'F049 Megabothris abantis'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (('Bom32 Caurinus dectes':0.10518679766847569,(('Bom138 Boreus nivoriundus':0.037253001804924066,('Bom13_80 Boreus brumalis':0.0021316919156228165,'Bom119 Boreus brumalis':0.0021316919156228165):0.03512130988930125):0.031748351715211995,(('Bom05_82 Boreus coloradensis':0.026946834262190047,'Boreus_cal Boreus californicus':0.026946834262190047):0.012653730171672439,('Bom107 Boreus westwoodi':0.021420903242123295,'Bom108 Boreus hyemalis':0.021420903242123295):0.01817966119173919):0.029400789086273575):0.03618544414833963)[&!name="Boreidae (outgroup)",!collapse={"collapsed",5.551115123125783E-17}]:0.13093380023320147,('F118 Macropsylla novaehollandiae':0.1552715639347843,((('F119 Stephanocircus pectinipes':0.009876148683879912,('F116 Stephanocircus dasyuri':0.00577153029975519,'F245 Stephanocircus dasyuri':0.00577153029975519):0.0041046183841247225)[&!name="Stephanocircinae",!collapse={"collapsed",5.551115123125783E-17}]:0.09993050425566104,('F164 Cleopsylla townsendi':0.10368420573016106,(('F142 Barreropsylla excelsa':0.05466199853248458,'F121 Sphinctopsylla ares':0.05466199853248458):0.025876861707159603,(('F163 Plocopsylla achilles':0.032468431873203106,'F264 Plocopsylla wolffsohni':0.032468431873203106):0.02785828644328843,('F161 Tiarapsylla titschacki':0.052865755277869624,(('F332 Tiarapsylla argentina':0.008675877081127558,'F336 Craneopsylla minerva wolffheuglia':0.008675877081127558):0.03485826659318135,('F170 Craneopsylla minerva minerva':0.022923067065795687,('F335 Craneopsylla minerva wolffheuglia':0.01859446528533811,Craneopsyl:0.01859446528533811):0.004328601780457578):0.020611076608513225):0.009331611603560712):0.007460963038621912):0.020212141923152648):0.023145345490516875)[&!name="Craneopsyllinae",!collapse={"collapsed",2.7755575615628914E-17}]:0.0061224472093798915):0.033166320694623996,(((('F259 Doratopsylla dasycnema dasycnema':0.040481132055579454,'F402 Doratopsylla sp.':0.040481132055579454):0.06118760525197644,('F254 Adoratopsylla intermedia copha':0.07560896962233174,('F085 Corrodopsylla birulai':0.025418986603900802,'F089 Corrodopsylla curvata curvata':0.025418986603900802):0.05018998301843094):0.026059767685224153)[&!name="Doratopsyllinae",!collapse={"collapsed",2.7755575615628914E-17}]:0.028289171954959128,('F185 Chiastopsylla rossi'[&!name="Chimaeropsyllidae"]:0.12099680411438318,((('F047 Hoplopsyllus anomalus':0.06222772067060043,('F037 Cediopsylla inaequalis inaequalis':0.02086312788862699,'F130 Spilopsyllus cuniculi':0.02086312788862699):0.041364592781973436):0.02661022285881113,(('Puf30 Pulex irritans':0.01399522024520203,'F464 Pulex irritans or simulans':0.01399522024520203):0.055777120769202604,('F320 Echidnophaga oschanini':0.04348088030415259,('F139 Echidnophaga iberica':0.009464387964675757,'F058 Echidnophaga gallinacea':0.009464387964675757):0.03401649233947683):0.02629146071025204):0.019065602515006927):0.012703528847724035,(('F326 Archaeopsylla erinacei erinacei':0.0682352858132552,('Puf01 Ctenocephalides canis':0.038865316661673754,('MerA1 Ctenocephalides felis felis':0.017767707618020694,'F222 Ctenocephalides felis damarensis':0.017767707618020694):0.02109760904365306):0.02936996915158145):0.028357805972088618,(('F286 Synopsyllus girardi':0.07172134228257973,('F205 Xenopsylla dipodilli':0.05431567166390475,('F029 Xenopsylla cheopis':0.02859355770260458,'F208 Xenopsylla robertsi':0.02859355770260458):0.025722113961300166):0.017405670618674984):0.010535244204919511,('F054 Parapulex chephrenis':0.08053384805955073,('F319 Xenopsylla skrjabini':0.03331735300819572,('F324 Xenopsylla conformis conformis':0.02797393834198086,('F204 Xenopsylla conformis mycerini':0.02181115551386001,('F133 Xenopsylla cunicularis':0.011022185612737094,'F206 Xenopsylla ramesis':0.011022185612737094):0.010788969901122915):0.006162782828120852):0.005343414666214862):0.04721649505135501):0.0017227384279485114):0.014336505297844582):0.004948380591791771)[&!name="Pulicidae",!collapse={"collapsed",2.7755575615628914E-17}]:0.01945533173724759):0.008961105148131837):0.009785975096109928,(((('F156 Uropsylla tasmanica':0.09937906129933588,('F202 Lycopsylla nova':0.07261515895228696,'F243 Bradiopsylla echidnae':0.07261515895228696)[&!name="Lycopsyllidae",!collapse={"collapsed",5.551115123125783E-17}]:0.026763902347048923):0.009716573471865067,(('Bibikovana Bibikovana n. sp.':0.08355793175368939,('F244 Pygiopsylla hoplia':0.01586203405364527,'F117 Pygiopsylla hoplia':0.01586203405364527):0.06769589770004412)[&!name="Pygiopsyllidae (except for Uropsylla)",!collapse={"collapsed",0.0}]:0.017429791571513753,(('F178 Papuapsylla corrugis':0.048436130348362416,('F176 Parastivalius novaeguinae':0.04270027077272797,'F175 Metastivalius mordax':0.04270027077272797):0.005735859575634446):0.019966690457496564,('F270 Lentistivalius insolli':0.03297589099120776,('F236 Lentistivalius occidentayunnanus':0.029284886522152196,('F255 Lentistivalius klossi klossi':0.0024178746811599253,'F280 Lentistivalius klossi klossi':0.0024178746811599253):0.026867011840992272):0.0036910044690555664):0.03542692981465122)[&!name="Stivaliidae",!collapse={"collapsed",2.7755575615628914E-17}]:0.032584902519344164):0.008107911445997804)[&!name="Pygiopsyllomorpha",!rotate=true]:0.015062104537172119,((('F275 Neotyphloceras crassispina ssp.':0.03872855983418534,'F109 Neotyphloceras crassispina chilensis':0.03872855983418534):0.04618622843991846,('F334 Agastopsylla boxi boxi':0.0702866125931379,('F338 Chiliopsylla allophyla allophyla':0.006165645265163381,'F127 Chiliopsylla allophyla allophyla':0.006165645265163381):0.06412096732797452):0.014628175680965902):0.0333789673852463,('F229 Palaeopsylla remota':0.08091164997049696,(('F234 Ctenophthalmus congeneroides congeneroides':0.021961739663485677,'F401 Ctenophthalmus agyrtes':0.021961739663485677):0.03592948135640495,(('F423 Ctenophthalmus sp.':0.0059483401457094305,'F405 Ctenophthalmus sp.':0.0059483401457094305):0.044362845617023514,('F201 Ctenophthalmus formasanus':0.02712046069873115,('F094 Ctenophthalmus sanborni':0.018617878534079348,('Ctf67 Ctenophthalmus pseudagyrtes pseudagyrtes':0.010921700732073835,('F462 Ctenophthalmus sp.':0.006876367804063875,'F268 Ctenophthalmus cryptotis':0.006876367804063875):0.00404533292800996):0.007696177802005513):0.0085025821646518):0.0231907250640018):0.007580035257157683):0.023020428950606332):0.03738210568885314)[&!name="Ctenophthalminae (except for Carteretta)",!collapse={"collapsed",5.551115123125783E-17}]:0.0058639836490229635):0.0036381177168782752,(((('F024 Stenistomera alpina':0.05179225946581751,'F023 Anomiopsyllus amphibolus':0.05179225946581751)[&!name="Stenistomera and Anomiopsyllus",!rotate=false,!collapse={"collapsed",5.551115123125783E-17}]:0.04357942352917154,(('F297 Wenzella obscura':0.05998253031464074,('F015 Meringis dipodomys':0.03404642714652911,'Ctf33 Meringis hubbardi':0.03404642714652911):0.02593610316811163):0.005197953542642221,(('F020 Epitedia wenmanni':0.04766028626865946,('F144 Catallagia borealis':0.03276787763563075,('F069 Catallagia decipiens':0.003979021291810467,'Ctf125 Catallagia sp.':0.003979021291810467):0.028788856343820283):0.014892408633028709):0.009488636885022168,('F312 Neopsylla abagaitui':0.03894642336345619,('F257 Neopsylla inopina':0.021926101843122655,('F102 Neopsylla bidentatiformis':0.010614504783567517,('F313 Neopsylla mana':0.0018625394476315827,'F314 Neopsylla mana':0.0018625394476315827):0.008751965335935934):0.011311597059555138):0.017020321520333535):0.018202499790225438):0.008031560703601337)[&!name="Neopsyllinae and Wenzella",!collapse={"collapsed",5.551115123125783E-17}]:0.030191199137706085):0.015166082972819642,(('F120 Ctenoparia topali':0.09754955268648925,('F099 Carteretta clavata':0.08296927902906354,'F097 Dinopsyllus ellobius':0.08296927902906354):0.014580273657425716)[&!name="Carteretta, Dinopsyllus and Ctenoparia",!collapse={"collapsed",5.551115123125783E-17}]:0.003975142019597908,((('Hyf71 Hystrichopsylla talpae talpae':0.01989388347750484,'F404 Hystrichopsylla sp.':0.01989388347750484):0.026270641793889913,('F115 Hystrichopsylla schefferi':0.008615618433192865,('F428 Hystrichopsylla dippiei':0.0072916173901535035,'F191 Hystrichopsylla orophila':0.0072916173901535035):0.001324001043039362):0.03754890683820189)[&!name="Hystrichopsyllinae (except for Ctenoparia)",!rotate=false,!collapse={"collapsed",5.551115123125783E-17}]:0.053063882984294306,(('Cof60 Coptopsylla africana':0.08842303730460212,('F107 Stenoponia sidimi':0.050413370989851804,('F050 Stenoponia tripectinata medialis':0.039392285573149236,('Ctf93 Stenoponia americana':0.00692401607121371,'FXG825 Stenoponia americana':0.00692401607121371):0.03246826950193553):0.011021085416702568)[&!name="Stenoponiinae",!collapse={"collapsed",2.7755575615628914E-17}]:0.038009666314750314):0.007258963458777343,(('F189 Conorhinopsylla stanfordi':0.05885641980612402,'Megarthrog Megarthroglossus divisus':0.05885641980612402)[&!name="Conorhinopsylla and Megarthroglossus",!collapse={"collapsed",8.326672684688674E-17}]:0.01649361936213979,(('F126 Nearctopsylla traubi':0.02690829329252208,('F331 Nearctopsylla genalis hygini':0.018393128649461243,'F241 Nearctopsylla hyrtaci':0.018393128649461243):0.008515164643060836):0.03668968372731414,('F124 Corypsylla ornata':0.056961974335544056,('F059 Rhadinopsylla masculana':0.0517429397351747,('F231 Stenischia sp.':0.04146245146007976,('F013 Rhadinopsylla heiseri':0.040705676687506326,('F039 Rhadinopsylla difficilis':0.03097208129295219,('F316 Rhadinopsylla dahurica dahurica':0.008938047515358358,'F230 Rhadinopsylla dahurica vicina':0.008938047515358358):0.02203403377759383):0.009733595394554137):7.567747725734375E-4):0.010280488275094937):0.005219034600369356):0.00663600268429216)[&!name="Rhadinopsyllinae (except for Wenzella)",!collapse={"collapsed",5.551115123125783E-17}]:0.011752062148427597):0.020331961595115647):0.0035464074923095973):0.0022962864503981023):0.00901307126172153):0.007401037439450087,(((('F281 Hectopsylla cypha':0.04605642086936604,'F461 Hectopsylla pulex':0.04605642086936604):0.0343498409169293,('F166 Tunga libis':0.032933310346963084,('F021 Tunga monositus':0.018925145418033786,'F167 Tunga penetrans':0.018925145418033786):0.014008164928929298):0.04747295143933226)[&!name="Tungidae",!collapse={"collapsed",5.551115123125783E-17}]:0.029007337767987196,(('CE1 Malacopsylla grossiventris':0.05438092691271104,('CE2 Phthiropsylla agenoris':0.005887113390111683,'F410 Phthiropsylla agenoris':0.005887113390111683):0.048493813522599356)[&!name="Malacopsyllidae",!collapse={"collapsed",8.326672684688674E-17}]:0.048698765146189996,(('F098 Jordanopsylla becki':0.08963223595812231,('F192 Chaetopsylla lotoris':0.0502319038638648,'F223 Chaetopsylla appropinquans':0.0502319038638648)[&!name="Vermipsyllidae",!collapse={"collapsed",5.551115123125783E-17}]:0.03940033209425751)[&!name="Jordanopsylla (Anomiopsyllinae)"]:0.011071262090648196,((('F265 Tetrapsyllus rhombus':0.027052171141953713,('F267 Tetrapsyllus maulinus':0.0014839872151165944,'F333 Tetrapsyllus maulinus':0.0014839872151165944):0.02556818392683712):0.06034628359258279,('F092 Tiamastus cavicola':0.06575019911670966,('F330 Rhopalopsyllus australis ssp.':0.053906741470426345,('F104 Polygenis pradoi':0.042646532429205145,('F209 Polygenis sp.':0.024484800835761853,('F294 Polygenis roberti roberti':0.018592672943491727,('F105 Polygenis rimatus':0.013086558665101791,'Rhf81 Polygenis pradoi':0.013086558665101791):0.0055061142783899356):0.005892127892270126):0.01816173159344329):0.0112602090412212):0.01184345764628332):0.021648255617826836)[&!name="Rhopalopsyllidae"]:0.0038011414726479703,(('F277 Listronius fortis':4.161838464883845E-4,'F273 Listronius fortis':4.161838464883845E-4):0.07795508487555482,((('Rhf62 Parapsyllus magellanicus largificus':0.023580337902683005,'F056 Parapsyllus longicornis':0.023580337902683005):0.016310592848605282,('F274 Ectinorus ixanus':0.020204497909565005,'F162 Ectinorus alejoi':0.020204497909565005):0.01968643284172328):0.007365924847345495,(('F112 Ectinorus gallardoi':5.43807501819149E-4,'F110 Ectinorus chilensis':5.43807501819149E-4):0.03612100727768739,('F283 Ectinorus lareschiae':0.02079826959334013,('F282 Ectinorus onychius ssp.':0.004979780960108748,'F278 Ectinorus onychius onychius':0.004979780960108748):0.015818488633231383):0.015866545186166408):0.010592040819127242)[&!name=null]:0.031114413123409415):0.012828327485141275)[&!name="Rhopalopsyllidae",!rotate=false,!collapse={"collapsed",5.551115123125783E-17}]:0.009503901841586032):0.0023761940101305334):0.0063339074953814994):0.005146277105694139,(((('F306 Ochotonobius hirticrus':0.02304082414812306,'F128 Geusibia ashcrafti':0.02304082414812306):0.02355417618608022,('F101 Frontopsylla nakagawai borealosinica':0.02658984864583036,('F309 Frontopsylla wagneri wagneri':0.00952056351065116,'F305 Frontopsylla hetera':0.00952056351065116):0.0170692851351792):0.02000515168837292):0.012371679113219188,('Lef52 Ophthalmopsylla volgensis palestinica':0.024987189446370222,(('F145 Ophthalmopsylla jettmari':0.009504731568370003,('F310 Ophthalmopsylla kiritschenkovi':0.0020058722235537178,'F328 Ophthalmopsylla kiritschenkovi':0.0020058722235537178):0.007498859344816285):0.01320212310936418,('F146 Ophthalmopsylla praefecta praefecta':0.012037024421107647,('F315 Ophthalmopsylla praefecta praefecta':5.572969391530615E-4,'F302 Ophthalmopsylla sp.':5.572969391530615E-4):0.011479727481954586):0.010669830256626536):0.0022803347686360387):0.03397949000105224)[&!name="Paradoxopsyllinae (except for Ornithophaga)",!collapse={"collapsed",5.551115123125783E-17}]:0.0443406930022939,(((('F252 Mesopsylla lenis':0.0011243214907240338,'F311 Mesopsylla hebes clara':0.0011243214907240338):0.05698329919366815,('F290 Paractenopsyllus raxworthyi':0.016744403417532642,('F291 Paractenopsyllus madagascarensis':0.006879305939083367,'F292 Paractenopsyllus madagascarensis':0.006879305939083367):0.009865097478449275):0.04136321726685954):0.018149319031383386,((('F227 Peromyscopsylla himalaica':0.028866247946098197,'F114 Ornithophaga anomala anomala':0.028866247946098197):0.01857637256026866,(('F038 Peromyscopsylla selenis':0.007883451242510456,'F431 Peromyscopsylla selenis':0.007883451242510456):0.01787285041979301,('F413 Peromyscopsylla silvatica':0.014007179087796163,('F091 Peromyscopsylla silvatica':0.011201459862342802,'F149 Peromyscopsylla hamifer vigens':0.011201459862342802):0.0028057192254533608):0.011749122574507302):0.02168631884406339):0.004374436264578077,(('F077 Amphipsylla sibirica sibirica':0.017543793817632443,('F303 Amphipsylla primaris primaris':0.009508111049627312,('F301 Amphipsylla longispina':0.006393662973828427,'F304 Amphipsylla vinogradovi vinogradovi':0.006393662973828427):0.003114448075798885):0.00803568276800513):0.03120581956236352,(('F414 Leptopsylla taschenbergi':0.029715389080942775,('F327 Leptopsylla nana':0.007996856415816362,'F226 Leptopsylla nana':0.007996856415816362):0.02171853266512641):0.012551225662106848,('F174 Sigmactenus toxopeusi':0.032840727224010255,('F225 Pectinoctenus nemorosa':0.020870252084672747,('F224 Pectinoctenus lauta':0.013414119854568942,('F228 Pectinoctenus pectiniceps':0.012572089959676777,'F322 Pectinoctenus pavlovskii':0.012572089959676777):8.420298948921649E-4):0.007456132230103805):0.011970475139337508):0.009425887519039368):0.00648299863694634):0.0030674433909489707):0.02443988294483064)[&!name="Leptopsyllinae and Ornithophaga",!collapse={"collapsed",5.551115123125783E-17}]:0.01487007863464046,((('F232 Nycteridopsylla iae':0.010201732470093757,('F293 Nycteridopsylla iae':0.00897671634586132,'F233 Nycteridopsylla sakagutii':0.00897671634586132):0.0012250161242324375):0.0707911320365818,(('F258 Sternopsylla distincta texana':0.004450899029990069,'F068 Sternopsylla distincta texana':0.004450899029990069):0.06194496797937745,(('JAE3026F Thaumapsylla sp.':0.0030007753339595642,'P4496F Thaumapsylla sp.':0.0030007753339595642):0.057901896137500374,(('F289 Lagaropsylla consularis':0.023881657570548224,'F288 Lagaropsylla idae':0.023881657570548224):0.03139515928689163,(('F057 Myodopsylla palposa':0.0322185093963042,('Isf61 Myodopsylla gentilis':0.013536382393699652,'F074 Myodopsylla insignis':0.013536382393699652):0.018682127002604545):0.013763313251509979,('F285 Dampfia grahami grahami':0.032707845083188365,('F253 Myodopsylla trisellis':0.019882319040509373,('F325 Ischnopsyllus indicus':0.01076720805617616,'F295 Ischnopsyllus variabilis':0.01076720805617616):0.009115110984333213):0.012825526042678993):0.01327397756462581):0.009294994209625672):0.005625854614020091):0.005493195537907579):0.014596997497308042)[&!name="Ischnopsyllidae",!collapse={"collapsed",0.0}]:0.004989992004675092,('F113 Dolichopsyllus stylosus':0.07901402832739392,('F103 Paraceras crispum':0.07311012667361816,('F129 Amphalius runatus necopinus':0.06833524608993359,(('F051 Nosopsyllus iranus theodori':0.022059732716872154,('F317 Nosopsyllus laeviceps ellobii':0.009079598124849785,('F108 Nosopsyllus laeviceps laeviceps':0.00855127919485981,('F321 Nosopsyllus laeviceps ellobii':5.597699300641026E-4,'F323 Nosopsyllus laeviceps kuzenkovi':5.597699300641026E-4):0.007991509264795709):5.283189299899738E-4):0.01298013459202237):0.0353708217571443,(('F159 Jellisonia guerrerensis':0.037367680987265506,(('FXG731 Jellisonia guerrerensis':0.004376131397849556,'FXG379 Jellisonia klotsi':0.004376131397849556):0.01694204998871055,('FXG763 Jellisonia amadoi':0.017415457148908298,('F218 Jellisonia sp.':0.01144378479626534,('F160 Kohlsia keenani':0.005602793038816453,'F123 Kohlsia osgoodi':0.005602793038816453):0.005840991757448888):0.005971672352642957):0.003902724237651811):0.016049499600705397):0.013887338139182782,(((('F188 Opisodasys pseudarctomys':0.012398934282619862,'QRS140 unidentified ceratophyllid flea':0.012398934282619862):0.00930123233840514,('F022 Orchopeas leucopus':0.007798262328550263,('F463 Orchopeas agilis':0.004215681276945838,'F008 Orchopeas agilis':0.004215681276945838):0.0035825810516044243):0.013901904292474739):0.019073125221537104,(('F165 Dasypsyllus stejnegeri':0.032695591835803436,('F196 Dasypsyllus gallinulae perpinnatus':0.0034493723370291334,'F272 Dasypsyllus gallinulae gallinulae':0.0034493723370291334):0.029246219498774303):0.005984676406796327,(('F329 Amalaraeus penicilliger penicilliger':0.01922697605808701,'F076 Amalaraeus penicilliger pedias':0.01922697605808701):0.01728698209883203,('Cef100 Traubella grundmanni':0.023359420993557315,('F031 Malaraeus telchinus':0.006791802185932347,('F284 Malaraeus eremicus':0.0033926277739709386,'Cef12 Malaraeus sinomus':0.0033926277739709386):0.0033991744119614086):0.016567618807624966):0.013154537163361724):0.002166310085680724):0.002093023599962343):0.00858205972200584,(('F240 Amaradix bitterrootensis':0.04020360525556242,(('F256 Thrassis pandorae pandorae':0.01674099391881674,'Cef14 Thrassis bacchi gladiolus':0.01674099391881674):0.018579364715295914,('F406 Oropsylla hirsuta':0.03165864076955824,('F048 Oropsylla montana':0.010837203991565885,('F184 Dactylopsylla bluei bluei':0.0027668825296188323,('F168 Foxella ignota':4.5018399610456043E-4,'F011 Foxella ignota':4.5018399610456043E-4):0.0023166985335142717):0.008070321461947052):0.020821436777992353):0.003661717864554416):0.0048832466214497675):0.007080640416327999,((('F147 Citellophilus tesquorum mongolicus':0.0074558692889225165,'F307 Citellophilus tesquorum mongolicus':0.0074558692889225165):0.030600839401675455,('F237 Ceratophyllus zhovtyi':0.006841527122148119,'F308 Callopsylla caspia gaiskii':0.006841527122148119):0.03121518156844985):0.0029155094236573073,('F318 Paramonopsyllus scalonae':0.03574699128642912,(('F095 Baculomeris schmidti':0.02893582504902397,('F040 Ceratophyllus petrochelidoni':0.0220442325759074,(('F296 Ceratophyllus gallinae':0.013869213446800753,'F298 Ceratophyllus hirundinis':0.013869213446800753):0.005468875211620887,('F035 Ceratophyllus gallinae':0.007573070675048214,('F299 Ceratophyllus idius':0.004693990757745041,'F300 Ceratophyllus rusticus':0.004693990757745041):0.002879079917303173):0.011765017983373427):0.0027061439174857586):0.006891592473116572):0.005227441135547219,(('F096 Plusaetis smiti':0.02322674699096838,('F044 Eumolpianus eumolpi eumolpi':0.011759491101465963,('F042 Opisodasys keeni':0.007534439386686515,'F079 Megabothris turbidus':0.007534439386686515):0.004225051714779448):0.011467255889502417):0.008519474764623437,('F032 Aetheca wagneri':0.030179362845276624,((('F010 Ceratophyllus ciliatus kincaidi':0.0211670129976217,'Plusaetis Plusaetis n. sp.':0.0211670129976217):0.0032723049957522204,('F169 Megabothris acerbus':0.0028634419441437246,'Cef34 Megabothris calcarifer':0.0028634419441437246):0.021575876049230197):0.002348162663290125,(('F465 Eumolpianus cyrturus/eumolpi':0.018905859748673145,('FXG272 Plusaetis sp.':0.011203549071748697,'FXG810 Plusaetis parus':0.011203549071748697):0.0077023106769244475):0.0021749352625396214,('F260 Megabothris walkeri':0.01503247787279283,('F427 Megabothris abantis':0.007654531276366698,('F248 Megabothris groenlandicus':0.00609357562558237,'F049 Megabothris abantis':0.00609357562558237):0.0015609556507843276):0.007377946596426132):0.006048317138419936):0.005706685645451279):0.0033918821886125793):0.0015668589103151921):0.002417044428979373):0.001583725101857933):0.005225226827826154):0.006312027557635144):0.002071105892677526):0.0018996675618803416):0.0061755353475681715):0.010904691615917131):0.004774880583684568)[&!name="Ceratophyllidae",!collapse={"collapsed",0.0}]:0.005903901653775759):0.006968828183956735):0.005144161839065381):0.012180354099300336):0.011252504210260306):0.0033789267472821016):0.009857053617992564):0.011948027333373606):0.003229089275539998):0.012298590300619361):0.08084903396689286);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=14;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="Arial";
+	set nodeLabels.fontSize=12;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute="User selection";
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=12.0;
+	set scaleBar.isShown=false;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.03;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=14;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

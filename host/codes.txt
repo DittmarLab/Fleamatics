@@ -1,0 +1,5 @@
+A	Aves
+B	Monotremata
+C	Metatheria
+D	Eutheria
+E	outgroup (free-living)

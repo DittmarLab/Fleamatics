@@ -1,0 +1,268 @@
+ID	Name	Infraorder	Superfamily	Family	Subfamily	Tribe	Genus	Species	Subspecies	Reference
+Bom32	Caurinus dectes	Neomecoptera		Boreidae			Caurinus	dectes		Russell, 1979
+Bom119	Boreus brumalis	Neomecoptera		Boreidae			Boreus	brumalis		Fitch, 1847
+Bom1380	Boreus brumalis	Neomecoptera		Boreidae			Boreus	brumalis		Fitch, 1847
+Bom2081	Boreus californicus	Neomecoptera		Boreidae			Boreus	californicus		Packard, 1870
+Bom0582	Boreus coloradensis	Neomecoptera		Boreidae			Boreus	coloradensis		Byers, 1955
+Bom108	Boreus hyemalis	Neomecoptera		Boreidae			Boreus	hyemalis		Linnaeus, 1767
+Bom138	Boreus nivoriundus	Neomecoptera		Boreidae			Boreus	nivoriundus		Fitch, 1847
+Bom107	Boreus westwoodi	Neomecoptera		Boreidae			Boreus	westwoodi		Hagen, 1866
+F166	Tunga libis	Pulicomorpha	Pulicoidea	Tungidae		Tungini	Tunga	libis		Smit, 1962
+F021	Tunga monositus	Pulicomorpha	Pulicoidea	Tungidae		Tungini	Tunga	monositus		Barnes et Radovsky, 1969
+F167	Tunga penetrans	Pulicomorpha	Pulicoidea	Tungidae		Tungini	Tunga	penetrans		Linnaeus, 1758
+F281	Hectopsylla cypha	Pulicomorpha	Pulicoidea	Tungidae		Hectopsyllini	Hectopsylla	cypha		Jordan, 1942
+F461	Hectopsylla pulex	Pulicomorpha	Pulicoidea	Tungidae		Hectopsyllini	Hectopsylla	pulex		Haller, 1880
+F208	Xenopsylla robertsi	Pulicomorpha	Pulicoidea	Pulicidae		Xenopsyllini	Xenopsylla	robertsi		Jordan, 1936
+F204	Xenopsylla conformis mycerini	Pulicomorpha	Pulicoidea	Pulicidae		Xenopsyllini	Xenopsylla	conformis	mycerini	Rothschild, 1904
+F205	Xenopsylla dipodilli	Pulicomorpha	Pulicoidea	Pulicidae		Xenopsyllini	Xenopsylla	dipodilli		Smit, 1960
+F206	Xenopsylla ramesis	Pulicomorpha	Pulicoidea	Pulicidae		Xenopsyllini	Xenopsylla	ramesis		Rothschild, 1904
+F324	Xenopsylla conformis conformis	Pulicomorpha	Pulicoidea	Pulicidae		Xenopsyllini	Xenopsylla	conformis	conformis	Wagner, 1903
+F319	Xenopsylla skrjabini	Pulicomorpha	Pulicoidea	Pulicidae		Xenopsyllini	Xenopsylla	skrjabini		Ioff, 1930
+F029	Xenopsylla cheopis	Pulicomorpha	Pulicoidea	Pulicidae		Xenopsyllini	Xenopsylla	cheopis		Rothschild, 1903
+F133	Xenopsylla cunicularis	Pulicomorpha	Pulicoidea	Pulicidae		Xenopsyllini	Xenopsylla	cunicularis		Smit, 1957
+F286	Synopsyllus girardi	Pulicomorpha	Pulicoidea	Pulicidae		Xenopsyllini	Synopsyllus	girardi		Klein, 1966
+F054	Parapulex chephrenis	Pulicomorpha	Pulicoidea	Pulicidae		Xenopsyllini	Parapulex	chephrenis		Rothschild, 1903
+F001	Ctenocephalides canis	Pulicomorpha	Pulicoidea	Pulicidae		Archaeopsyllini	Ctenocephalides	canis		Curtis, 1826
+F222	Ctenocephalides felis damarensis	Pulicomorpha	Pulicoidea	Pulicidae		Archaeopsyllini	Ctenocephalides	felis	damarensis	Jordan, 1936
+MerA1	Ctenocephalides felis felis	Pulicomorpha	Pulicoidea	Pulicidae		Archaeopsyllini	Ctenocephalides	felis	felis	Bouche, 1835
+F326	Archaeopsylla erinacei erinacei	Pulicomorpha	Pulicoidea	Pulicidae		Archaeopsyllini	Archaeopsylla	erinacei	erinacei	Bouche, 1835
+F320	Echidnophaga oschanini	Pulicomorpha	Pulicoidea	Pulicidae		Pulicini	Echidnophaga	oschanini		Wagner, 1930
+F058	Echidnophaga gallinacea	Pulicomorpha	Pulicoidea	Pulicidae		Pulicini	Echidnophaga	gallinacea		Westwood, 1875
+F139	Echidnophaga iberica	Pulicomorpha	Pulicoidea	Pulicidae		Pulicini	Echidnophaga	iberica		Ribeiro, Lucientes, Osacar et Calvete, 1994
+F030	Pulex irritans	Pulicomorpha	Pulicoidea	Pulicidae		Pulicini	Pulex	irritans		Linnaeus, 1758
+F464	Pulex sp.	Pulicomorpha	Pulicoidea	Pulicidae		Pulicini	Pulex			Linnaeus, 1758
+F130	Spilopsyllus cuniculi	Pulicomorpha	Pulicoidea	Pulicidae		Spilopsyllini	Spilopsyllus	cuniculi		Baker, 1905
+F037	Cediopsylla inaequalis inaequalis	Pulicomorpha	Pulicoidea	Pulicidae		Spilopsyllini	Cediopsylla	inaequalis	inaequalis	Baker, 1895
+F047	Hoplopsyllus anomalus	Pulicomorpha	Pulicoidea	Pulicidae		Spilopsyllini	Hoplopsyllus	anomalus		Baker, 1904
+F283	Ectinorus lareschiae	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Ectinorus	lareschiae		Hastriter, 2009
+F274	Ectinorus ixanus	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Ectinorus	ixanus		Jordan, 1942
+F282	Ectinorus onychius	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Ectinorus	onychius		Jordan et Rothschild, 1923
+F278	Ectinorus onychius	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Ectinorus	onychius		Jordan et Rothschild, 1923
+F162	Ectinorus alejoi	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Ectinorus	alejoi		Hastriter, 2002
+F110	Ectinorus chilensis	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Ectinorus	chilensis		Lewis, 1976
+F112	Ectinorus gallardoi	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Ectinorus	gallardoi		Hastriter, 2001
+F273	Listronius fortis	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Listronius	fortis		Jordan et Rothschild, 1923
+F277	Listronius fortis	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Listronius	fortis		Jordan et Rothschild, 1923
+F056	Parapsyllus longicornis	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Parapsyllus	longicornis		Enderlein, 1901
+F062	Parapsyllus magellanicus largificus	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Parapsyllus	magellanicus	largificus	Smit, 1984
+F267	Tetrapsyllus maulinus	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Tetrapsyllus	maulinus		Beaucournu et Gallardo, 1978
+F333	Tetrapsyllus maulinus	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Tetrapsyllus	maulinus		Beaucournu et Gallardo, 1978
+F265	Tetrapsyllus rhombus	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Parapsyllinae		Tetrapsyllus	rhombus		Smit, 1955
+F209	Polygenis sp.	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Rhopalopsyllinae		Polygenis			Jordan, 1939
+F294	Polygenis roberti roberti	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Rhopalopsyllinae		Polygenis	roberti	roberti	Rothschild, 1905
+F081	Polygenis pradoi	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Rhopalopsyllinae		Polygenis	pradoi		Wagner, 1937
+F104	Polygenis pradoi	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Rhopalopsyllinae		Polygenis	pradoi		Wagner, 1937
+F105	Polygenis rimatus	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Rhopalopsyllinae		Polygenis	rimatus		Jordan, 1932
+F330	Rhopalopsyllus australis ssp.	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Rhopalopsyllinae		Rhopalopsyllus	australis		Rothschild, 1904
+F092	Tiamastus cavicola	Pulicomorpha	Malacopsylloidea	Rhopalopsyllidae	Rhopalopsyllinae		Tiamastus	cavicola		Weyenbergh, 1881
+CE1	Malacopsylla grossiventris	Pulicomorpha	Malacopsylloidea	Malacopsyllidae			Malacopsylla	grossiventris		Weyenbergh, 1879
+F410	Phthiropsylla agenoris	Pulicomorpha	Malacopsylloidea	Malacopsyllidae			Phthiropsylla	agenoris		Rothschild, 1904
+CE2	Phthiropsylla agenoris	Pulicomorpha	Malacopsylloidea	Malacopsyllidae			Phthiropsylla	agenoris		Rothschild, 1904
+F223	Chaetopsylla appropinquans	Pulicomorpha	Vermipsylloidea	Vermipsyllidae			Chaetopsylla	appropinquans		Wagner, 1930
+F192	Chaetopsylla lotoris	Pulicomorpha	Vermipsylloidea	Vermipsyllidae			Chaetopsylla	lotoris		Stewart, 1926
+F060	Coptopsylla africana	Pulicomorpha	Coptopsylloidea	Coptopsyllidae			Coptopsylla	africana		Wagner, 1932
+F243	Bradiopsylla echidnae	Pygiopsyllomorpha	Pygiopsylloidea	Lycopsyllidae		Bradiopsyllini	Bradiopsylla	echidnae		Denny, 1843
+F202	Lycopsylla nova	Pygiopsyllomorpha	Pygiopsylloidea	Lycopsyllidae		Lycopsyllini	Lycopsylla	nova		Rothschild, 1904
+F156	Uropsylla tasmanica	Pygiopsyllomorpha	Pygiopsylloidea	Lycopsyllidae		Uropsyllini	Uropsylla	tasmanica		Rothschild, 1905
+F244	Pygiopsylla hoplia	Pygiopsyllomorpha	Pygiopsylloidea	Pygiopsyllidae			Pygiopsylla	hoplia		Jordan et Rothschild, 1922
+F117	Pygiopsylla hoplia	Pygiopsyllomorpha	Pygiopsylloidea	Pygiopsyllidae			Pygiopsylla	hoplia		Jordan et Rothschild, 1922
+F177	Bibikovana n. sp.	Pygiopsyllomorpha	Pygiopsylloidea	Pygiopsyllidae			Bibikovana			Traub, 1980
+F176	Parastivalius novaeguinae	Pygiopsyllomorpha	Pygiopsylloidea	Stivaliidae			Parastivalius	novaeguinae		Rothschild, 1904
+F236	Lentistivalius occidentayunnanus	Pygiopsyllomorpha	Pygiopsylloidea	Stivaliidae			Lentistivalius	occidentayunnanus		Li Kueichen, Xie Baoqi et Gong Zhengda, 1981
+F255	Lentistivalius klossi klossi	Pygiopsyllomorpha	Pygiopsylloidea	Stivaliidae			Lentistivalius	klossi	klossi	Jordan et Rothschild, 1922
+F280	Lentistivalius klossi klossi	Pygiopsyllomorpha	Pygiopsylloidea	Stivaliidae			Lentistivalius	klossi	klossi	Jordan et Rothschild, 1922
+F270	Lentistivalius insolli	Pygiopsyllomorpha	Pygiopsylloidea	Stivaliidae			Lentistivalius	insolli		Traub, 1950
+F175	Metastivalius mordax	Pygiopsyllomorpha	Pygiopsylloidea	Stivaliidae			Metastivalius	mordax		Rothschild, 1908
+F178	Papuapsylla corrugis	Pygiopsyllomorpha	Pygiopsylloidea	Stivaliidae			Papuapsylla	corrugis		Jordan, 1933
+F023	Anomiopsyllus amphibolus	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Anomiopsyllinae	Anomiopsyllini	Anomiopsyllus	amphibolus		Wagner, 1936
+F189	Conorhinopsylla stanfordi	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Anomiopsyllinae	Anomiopsyllini	Conorhinopsylla	stanfordi		Stewart, 1930
+F007	Megarthroglossus divisus	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Anomiopsyllinae	Anomiopsyllini	Megarthroglossus	divisus		Baker, 1898
+F024	Stenistomera alpina	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Anomiopsyllinae	Anomiopsyllini	Stenistomera	alpina		Baker, 1895
+F098	Jordanopsylla becki	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Anomiopsyllinae	Jordanopsyllini	Jordanopsylla	becki		Hastriter, 2000
+F334	Agastopsylla boxi boxi	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Agastopsyllini	Agastopsylla	boxi	boxi	Jordan et Rothschild, 1923
+F099	Carteretta clavata	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Carterettini	Carteretta	clavata		Good, 1942
+F423	Ctenophthalmus sp.	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Ctenophthalmini	Ctenophthalmus			Kolenati, 1856
+F462	Ctenophthalmus sp.	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Ctenophthalmini	Ctenophthalmus			Kolenati, 1856
+F234	Ctenophthalmus congeneroides congeneroides	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Ctenophthalmini	Ctenophthalmus	congeneroides	congeneroides	Wagner, 1930
+F094	Ctenophthalmus sanborni	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Ctenophthalmini	Ctenophthalmus	sanborni		Traub, 1950
+F067	Ctenophthalmus pseudagyrtes pseudagyrtes	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Ctenophthalmini	Ctenophthalmus	pseudagyrtes	pseudagyrtes	Baker, 1904
+F201	Ctenophthalmus formosanus	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Ctenophthalmini	Ctenophthalmus	formosanus		Svihla, 1942
+F401	Ctenophthalmus agyrtes	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Ctenophthalmini	Ctenophthalmus	agyrtes		Heller, 1896
+F268	Ctenophthalmus cryptotis	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Ctenophthalmini	Ctenophthalmus	cryptotis		Traub et Barrera, 1966
+F405	Ctenophthalmus sp.	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Ctenophthalmini	Ctenophthalmus			Kolenati, 1856
+F229	Palaeopsylla remota	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Ctenophthalmini	Palaeopsylla	remota		Jordan, 1929
+F127	Chiliopsylla allophyla allophyla	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Neotyphloceratini	Chiliopsylla	allophyla	allophyla	Rothschild, 1908
+F338	Chiliopsylla allophyla allophyla	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Neotyphloceratini	Chiliopsylla	allophyla	allophyla	Rothschild, 1908
+F275	Neotyphloceras crassispina ssp.	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Neotyphloceratini	Neotyphloceras	crassispina		Rothschild, 1914
+F109	Neotyphloceras crassispina chilensis	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Ctenophthalminae	Neotyphloceratini	Neotyphloceras	crassispina	chilensis	Jordan, 1936
+F097	Dinopsyllus ellobius	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Dinopsyllinae		Dinopsyllus	ellobius		Rothschild, 1905
+F085	Corrodopsylla birulai	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Doratopsyllinae	Doratopsyllini	Corrodopsylla	birulai		Ioff, 1928
+F089	Corrodopsylla curvata curvata	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Doratopsyllinae	Doratopsyllini	Corrodopsylla	curvata	curvata	Rothschild, 1915
+F259	Doratopsylla dasycnema dasycnema	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Doratopsyllinae	Doratopsyllini	Doratopsylla	dasycnema	dasycnema	Rothschild, 1897
+F402	Doratopsylla sp.	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Doratopsyllinae	Doratopsyllini	Doratopsylla			Jordan et Rothschild, 1912
+F254	Adoratopsylla intermedia copha	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Doratopsyllinae	Tritopsyllini	Adoratopsylla	intermedia	copha	Jordan, 1926
+F120	Ctenoparia topali	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Hystrichopsyllinae	Ctenopariini	Ctenoparia	topali		Smit, 1963
+F191	Hystrichopsylla orophila	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Hystrichopsyllinae	Hystrichopsyllini	Hystrichopsylla	orophila		Barrera, 1952
+F428	Hystrichopsylla dippiei	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Hystrichopsyllinae	Hystrichopsyllini	Hystrichopsylla	dippiei		Rothschild, 1902
+F115	Hystrichopsylla schefferi	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Hystrichopsyllinae	Hystrichopsyllini	Hystrichopsylla	schefferi		Chapin, 1919
+F071	Hystrichopsylla talpae talpae	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Hystrichopsyllinae	Hystrichopsyllini	Hystrichopsylla	talpae	talpae	Curtis, 1826
+F404	Hystrichopsylla sp.	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Hystrichopsyllinae	Hystrichopsyllini	Hystrichopsylla			Taschenberg, 1880
+F312	Neopsylla abagaitui	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Neopsyllinae	Neopsyllini	Neopsylla	abagaitui		Ioff, 1946
+F257	Neopsylla inopina	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Neopsyllinae	Neopsyllini	Neopsylla	inopina		Rothschild, 1915
+F313	Neopsylla mana	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Neopsyllinae	Neopsyllini	Neopsylla	mana		Wagner, 1927
+F314	Neopsylla mana	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Neopsyllinae	Neopsyllini	Neopsylla	mana		Wagner, 1927
+F102	Neopsylla bidentatiformis	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Neopsyllinae	Neopsyllini	Neopsylla	bidentatiformis		Wagner, 1893
+F144	Catallagia borealis	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Neopsyllinae	Phalacropsyllini	Catallagia	borealis		Ewing, 1929
+F069	Catallagia decipiens	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Neopsyllinae	Phalacropsyllini	Catallagia	decipiens		Rothschild, 1915
+F125	Catallagia sp.	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Neopsyllinae	Phalacropsyllini	Catallagia			Rothschild, 1915
+F020	Epitedia wenmanni	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Neopsyllinae	Phalacropsyllini	Epitedia	wenmanni		Rothschild, 1904
+F015	Meringis dipodomys	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Neopsyllinae	Phalacropsyllini	Meringis	dipodomys		Kohls, 1938
+F033	Meringis hubbardi	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Neopsyllinae	Phalacropsyllini	Meringis	hubbardi		Kohls, 1938
+F124	Corypsylla ornata	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Rhadinopsyllinae	Corypsyllini	Corypsylla	ornata		C.Fox, 1908
+F241	Nearctopsylla hyrtaci	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Rhadinopsyllinae	Corypsyllini	Nearctopsylla	hyrtaci		Rothschild, 1904
+F331	Nearctopsylla genalis hygini	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Rhadinopsyllinae	Corypsyllini	Nearctopsylla	genalis	hygini	Rothschild, 1904
+F126	Nearctopsylla traubi	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Rhadinopsyllinae	Corypsyllini	Nearctopsylla	traubi		Hubbard, 1949
+F316	Rhadinopsylla dahurica dahurica	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Rhadinopsyllinae	Rhadinopsyllini	Rhadinopsylla	dahurica	dahurica	Jordan et Rothschild, 1923
+F013	Rhadinopsylla heiseri	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Rhadinopsyllinae	Rhadinopsyllini	Rhadinopsylla	heiseri		Mc Coy, 1911
+F059	Rhadinopsylla masculana	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Rhadinopsyllinae	Rhadinopsyllini	Rhadinopsylla	masculana		Jordan et Rothschild, 1912
+F230	Rhadinopsylla dahurica vicina	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Rhadinopsyllinae	Rhadinopsyllini	Rhadinopsylla	dahurica	vicina	Wagner, 1930
+F039	Rhadinopsylla difficilis	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Rhadinopsyllinae	Rhadinopsyllini	Rhadinopsylla	difficilis		Smit, 1957
+F231	Stenischia sp.	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Rhadinopsyllinae	Rhadinopsyllini	Stenischia			Jordan, 1932
+F297	Wenzella obscura	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Rhadinopsyllinae	Wenzellini	Wenzella	obscura		Traub, 1953
+F107	Stenoponia sidimi	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Stenoponiinae		Stenoponia	sidimi		Marikovskiy, 1935
+F050	Stenoponia tripectinata medialis	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Stenoponiinae		Stenoponia	tripectinata	medialis	Jordan, 1958
+F093	Stenoponia americana	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Stenoponiinae		Stenoponia	americana		Baker, 1899
+FXG825	Stenoponia americana	Hystrichopsyllomorpha	Hystrichopsylloidea	Hystrichopsyllidae	Stenoponiinae		Stenoponia	americana		Baker, 1899
+F185	Chiastopsylla rossi	Hystrichopsyllomorpha	Hystrichopsylloidea	Chimaeropsyllidae	Chiastopsyllinae		Chiastopsylla	rossi		Waterston, 1909
+F118	Macropsylla novaehollandiae	Hystrichopsyllomorpha	Macropsylloidea	Macropsyllidae			Macropsylla	novaehollandiae		Hastriter 2002
+F142	Barreropsylla excelsa	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Craneopsyllinae	Barreropsyllini	Barreropsylla	excelsa		Jordan, 1953
+F164	Cleopsylla townsendi	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Craneopsyllinae	Craneopsyllini	Cleopsylla	townsendi		Rothschild, 1914
+F335	Craneopsylla minerva wolffheuglia	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Craneopsyllinae	Craneopsyllini	Craneopsylla	minerva	wolffheuglia	Rothschild, 1909
+F336	Craneopsylla minerva wolffheuglia	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Craneopsyllinae	Craneopsyllini	Craneopsylla	minerva	wolffheuglia	Rothschild, 1909
+F006	Craneopsylla minerva wolffheuglia	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Craneopsyllinae	Craneopsyllini	Craneopsylla	minerva	wolffheuglia	Rothschild, 1909
+F170	Craneopsylla minerva minerva	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Craneopsyllinae	Craneopsyllini	Craneopsylla	minerva	minerva	Rothschild, 1903
+F163	Plocopsylla achilles	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Craneopsyllinae	Craneopsyllini	Plocopsylla	achilles		Rothschild, 1911
+F264	Plocopsylla wolffsohni	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Craneopsyllinae	Craneopsyllini	Plocopsylla	wolffsohni		Rothschild, 1909
+F121	Sphinctopsylla ares	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Craneopsyllinae	Craneopsyllini	Sphinctopsylla	ares		Rothschild, 1911
+F332	Tiarapsylla argentina	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Craneopsyllinae	Craneopsyllini	Tiarapsylla	argentina		Jordan, 1942
+F161	Tiarapsylla titschacki	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Craneopsyllinae	Craneopsyllini	Tiarapsylla	titschacki		Wagner, 1937
+F119	Stephanocircus pectinipes	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Stephanocircinae		Stephanocircus	pectinipes		Rothschild, 1915
+F116	Stephanocircus dasyuri	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Stephanocircinae		Stephanocircus	dasyuri		Skuse, 1893
+F245	Stephanocircus dasyuri	Hystrichopsyllomorpha	Stephanocircidoidea	Stephanocircidae	Stephanocircinae		Stephanocircus	dasyuri		Skuse, 1893
+F285	Dampfia grahami grahami	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Ischnopsyllini	Dampfia	grahami	grahami	Waterston, 1915
+F295	Ischnopsyllus variabilis	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Ischnopsyllini	Ischnopsyllus	variabilis		Wagner, 1898
+F325	Ischnopsyllus indicus	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Ischnopsyllini	Ischnopsyllus	indicus		Jordan, 1931
+F289	Lagaropsylla consularis	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Ischnopsyllini	Lagaropsylla	consularis		Smit, 1957
+F288	Lagaropsylla idae	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Ischnopsyllini	Lagaropsylla	idae		Smit, 1957
+F061	Myodopsylla gentilis	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Ischnopsyllini	Myodopsylla	gentilis		Jordan et Rothschild, 1921
+F057	Myodopsylla palposa	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Ischnopsyllini	Myodopsylla	palposa		Rothschild, 1904
+F074	Myodopsylla insignis	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Ischnopsyllini	Myodopsylla	insignis		Rothschild, 1903
+F253	Myodopsylla trisellis	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Ischnopsyllini	Myodopsylla	trisellis		Jordan, 1929
+F233	Nycteridopsylla sakagutii	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Nycteridopsyllini	Nycteridopsylla	sakagutii		Jameson et Suyemoto, 1955
+F293	Nycteridopsylla iae	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Nycteridopsyllini	Nycteridopsylla	iae		Beaucournu et Kock, 1992
+F232	Nycteridopsylla iae	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Nycteridopsyllini	Nycteridopsylla	iae		Beaucournu et Kock, 1992
+F258	Sternopsylla distincta texana	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Sternopsyllini	Sternopsylla	distincta	texana	C.Fox, 1914
+F068	Sternopsylla distincta texana	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Ischnopsyllinae	Sternopsyllini	Sternopsylla	distincta	texana	C.Fox, 1914
+P4496F	Thaumapsylla sp.	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Thaumapsyllinae		Thaumapsylla			Rothschild, 1907
+JAE3026F	Thaumapsylla sp.	Ceratophyllomorpha	Ceratophylloidea	Ischnopsyllidae	Thaumapsyllinae		Thaumapsylla			Rothschild, 1907
+F113	Dolichopsyllus stylosus	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Dolichopsyllinae		Dolichopsyllus	stylosus		Baker, 1904
+F077	Amphipsylla sibirica sibirica	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Amphipsyllini	Amphipsylla	sibirica	sibirica	Wagner, 1898
+F301	Amphipsylla longispina	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Amphipsyllini	Amphipsylla	longispina		Scalon, 1950
+F303	Amphipsylla primaris primaris	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Amphipsyllini	Amphipsylla	primaris	primaris	Jordan et Rothschild, 1915
+F304	Amphipsylla vinogradovi vinogradovi	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Amphipsyllini	Amphipsylla	vinogradovi	vinogradovi	Ioff, 1928
+F327	Leptopsylla nana	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Leptopsylla	nana		Argyropulo, 1946
+F226	Leptopsylla nana	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Leptopsylla	nana		Argyropulo, 1946
+F414	Leptopsylla taschenbergi	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Leptopsylla	taschenbergi		Wagner, 1898
+F322	Leptopsylla pavlovskii	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Leptopsylla	pavlovskii		Ioff, 1928
+F224	Leptopsylla lauta	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Leptopsylla	lauta		Rothschild, 1915
+F225	Leptopsylla nemorosa	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Leptopsylla	nemorosa		Tiflov, 1937
+F228	Leptopsylla pectiniceps	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Leptopsylla	pectiniceps		Wagner, 1893
+F291	Paractenopsyllus madagascarensis	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Paractenopsyllus	madagascarensis		Hastriter et Dick, 2009
+F290	Paractenopsyllus raxworthyi	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Paractenopsyllus	raxworthyi		Duchemin et Ratovonjato, 2004
+F292	Paractenopsyllus madagascarensis	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Paractenopsyllus	madagascarensis		Hastriter et Dick, 2009
+F227	Peromyscopsylla himalaica	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Peromyscopsylla	himalaica		Rothschild, 1915
+F038	Peromyscopsylla selenis	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Peromyscopsylla	selenis		Rothschild, 1906
+F091	Peromyscopsylla silvatica	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Peromyscopsylla	silvatica		Meinert, 1896
+F149	Peromyscopsylla hamifer vigens	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Peromyscopsylla	hamifer	vigens	Jordan, 1937
+F413	Peromyscopsylla silvatica	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Peromyscopsylla	silvatica		Meinert, 1896
+F431	Peromyscopsylla selenis	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Peromyscopsylla	selenis		Rothschild, 1906
+F174	Sigmactenus toxopeusi	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Leptopsyllini	Sigmactenus	toxopeusi		Smit, 1953
+F311	Mesopsylla hebes clara	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Mesopsyllini	Mesopsylla	hebes	clara	Smit, 1980
+F252	Mesopsylla lenis	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Leptopsyllinae	Mesopsyllini	Mesopsylla	lenis		Jordan et Rothschild, 1915
+F114	Ornithophaga anomala anomala	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Ornithophagini	Ornithophaga	anomala	anomala	Mikulin, 1957
+F306	Ochotonobius hirticrus	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Ochotonobius	hirticrus		Jordan et Rothschild, 1923
+F305	Frontopsylla hetera	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Frontopsylla	hetera		Wagner, 1933
+F309	Frontopsylla wagneri wagneri	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Frontopsylla	wagneri	wagneri	Ioff, 1928
+F101	Frontopsylla nakagawai borealosinica	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Frontopsylla	nakagawai	borealosinica	Liu Chiying, Wu Houyong et Chang Fengbo, 1986
+F128	Geusibia ashcrafti	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Geusibia	ashcrafti		Augustson, 1941
+F328	Ophthalmopsylla kiritschenkovi	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Ophthalmopsylla	kiritschenkovi		Wagner, 1930
+F310	Ophthalmopsylla kiritschenkovi	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Ophthalmopsylla	kiritschenkovi		Wagner, 1930
+F315	Ophthalmopsylla praefecta praefecta	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Ophthalmopsylla	praefecta	praefecta	Jordan et Rothschild, 1915
+F146	Ophthalmopsylla praefecta praefecta	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Ophthalmopsylla	praefecta	praefecta	Jordan et Rothschild, 1915
+F052	Ophthalmopsylla volgensis palestinica	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Ophthalmopsylla	volgensis	palestinica	Smit, 1960
+F145	Ophthalmopsylla jettmari	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Ophthalmopsylla	jettmari		Jordan, 1929
+F302	Ophthalmopsylla sp.	Ceratophyllomorpha	Ceratophylloidea	Leptopsyllidae	Paradoxopsyllinae	Paradoxopsyllini	Ophthalmopsylla			Wagner et Ioff, 1926
+F032	Aetheca wagneri	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Aetheca	wagneri		Baker, 1904
+F329	Amalaraeus penicilliger penicilliger	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Amalaraeus	penicilliger	penicilliger	Grube, 1851
+F076	Amalaraeus penicilliger pedias	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Amalaraeus	penicilliger	pedias	Rothschild, 1911
+F240	Amaradix bitterrootensis	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Amaradix	bitterrootensis		Dunn, 1923
+F129	Amphalius runatus necopinus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Amphalius	runatus	necopinus	Jordan, 1925
+F095	Baculomeris schmidti	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Baculomeris	schmidti		Traub, 1950
+F308	Callopsylla caspia gaiskii	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Callopsylla	caspia	gaiskii	Vovchinskaya, 1950
+F299	Ceratophyllus idius	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Ceratophyllus	idius		Jordan et Rothschild, 1922
+F300	Ceratophyllus rusticus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Ceratophyllus	rusticus		Wagner, 1903
+F298	Ceratophyllus hirundinis	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Ceratophyllus	hirundinis		Curtis, 1826
+F010	Ceratophyllus ciliatus kincaidi	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Ceratophyllus	ciliatus	kincaidi	Hubbard, 1947
+F296	Ceratophyllus gallinae	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Ceratophyllus	gallinae		Schrank, 1803
+F035	Ceratophyllus gallinae	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Ceratophyllus	gallinae		Schrank, 1803
+F237	Ceratophyllus zhovtyi	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Ceratophyllus	zhovtyi		Emel'yanova et Goncharov, 1966
+F040	Ceratophyllus petrochelidoni	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Ceratophyllus	petrochelidoni		Wagner, 1936
+F307	Citellophilus tesquorum mongolicus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Citellophilus	tesquorum	mongolicus	Jordan et Rothschild, 1911
+F147	Citellophilus tesquorum mongolicus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Citellophilus	tesquorum	mongolicus	Jordan et Rothschild, 1911
+F272	Dasypsyllus gallinulae gallinulae	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Dasypsyllus	gallinulae	gallinulae	Dale, 1878
+F196	Dasypsyllus gallinulae perpinnatus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Dasypsyllus	gallinulae	perpinnatus	Baker, 1904
+F165	Dasypsyllus stejnegeri	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Dasypsyllus	stejnegeri		Jordan, 1929
+F044	Eumolpianus eumolpi eumolpi	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Eumolpianus	eumolpi	eumolpi	Rothschild, 1905
+F465	Eumolpianus cyrturus/eumolpi	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Eumolpianus			Smit, 1983
+F218	Jellisonia sp.	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Jellisonia			Traub, 1944
+F159	Jellisonia guerrerensis	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Jellisonia	guerrerensis		Morales, 1990
+FXG731	Jellisonia guerrerensis	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Jellisonia	guerrerensis		Morales, 1990
+FXG379	Jellisonia klotsi	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Jellisonia	klotsi		Traub, 1944
+FXG763	Jellisonia amadoi	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Jellisonia	amadoi		Ponce-Ulloa, 1989
+F160	Kohlsia keenani	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Kohlsia	keenani		Tipton et Mendez, 1961
+F123	Kohlsia osgoodi	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Kohlsia	osgoodi		Traub, 1950
+F427	Megabothris abantis	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Megabothris	abantis		Rothschild, 1905
+F049	Megabothris abantis	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Megabothris	abantis		Rothschild, 1905
+F169	Megabothris acerbus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Megabothris	acerbus		Jordan, 1925
+F034	Megabothris calcarifer	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Megabothris	calcarifer		Wagner, 1913
+F079	Megabothris turbidus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Megabothris	turbidus		Rothschild, 1909
+F260	Megabothris walkeri	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Megabothris	walkeri		Rothschild, 1902
+F248	Megabothris groenlandicus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Megabothris	groenlandicus		Wahlgren, 1903
+F051	Nosopsyllus iranus theodori	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Nosopsyllus	iranus	theodori	Smit, 1960
+F317	Nosopsyllus laeviceps ellobii	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Nosopsyllus	laeviceps	ellobii	Wagner, 1933
+F321	Nosopsyllus laeviceps ellobii	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Nosopsyllus	laeviceps	ellobii	Wagner, 1933
+F108	Nosopsyllus laeviceps laeviceps	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Nosopsyllus	laeviceps	laeviceps	Wagner, 1909
+F323	Nosopsyllus laeviceps kuzenkovi	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Nosopsyllus	laeviceps	kuzenkovi	Yagubyants, 1953
+F042	Opisodasys keeni	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Opisodasys	keeni		Baker, 1896
+F188	Opisodasys pseudarctomys	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Opisodasys	pseudarctomys		Baker, 1904
+F008	Orchopeas agilis	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Orchopeas	agilis		Rothschild, 1905
+F463	Orchopeas agilis	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Orchopeas	agilis		Rothschild, 1905
+F022	Orchopeas leucopus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Orchopeas	leucopus		Baker, 1904
+F048	Oropsylla montana	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Oropsylla	montana		Baker, 1895
+F406	Oropsylla hirsuta	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Oropsylla	hirsuta		Baker, 1895
+F103	Paraceras crispum	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Paraceras	crispum		Jordan et Rothschild, 1911
+F318	Paramonopsyllus scalonae	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Paramonopsyllus	scalonae		Vovchinskaya, 1950
+F158	Plusaetis n. sp.	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Plusaetis			Smit, 1983
+F096	Plusaetis smiti	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Plusaetis	smiti		Johnson, 1954
+FXG272	Plusaetis sp.	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Plusaetis			Smit, 1983
+FXG810	Plusaetis parus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Plusaetis	parus		Traub, 1950
+F012	Malaraeus eremicus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Malaraeus	sinomus		Jordan, 1925
+F284	Malaraeus eremicus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Malaraeus	eremicus		Baker, 1904
+F100	Malaraeus grundmanni	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Malaraeus	grundmanni		Egoscue, 1989
+F031	Malaraeus telchinus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Malaraeus	telchinus		Rothschild, 1905
+F256	Thrassis pandorae pandorae	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Thrassis	pandorae	pandorae	Jellison, 1937
+F014	Thrassis bacchi gladiolus	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Ceratophyllinae		Thrassis	bacchi	gladiolus	Jordan, 1925
+F184	Dactylopsylla bluei bluei	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Dactylopsyllinae		Dactylopsylla	bluei	bluei	C.Fox, 1909
+F011	Foxella ignota	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Dactylopsyllinae		Foxella	ignota		Baker, 1895
+F168	Foxella ignota	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae	Dactylopsyllinae		Foxella	ignota		Baker, 1895
+QRS140	unidentified ceratophyllid flea	Ceratophyllomorpha	Ceratophylloidea	Ceratophyllidae						Dampf, 1908
